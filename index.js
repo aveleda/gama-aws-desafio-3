@@ -122,6 +122,7 @@ exports.handler = async (event, context) => {
       } finally {
         body = JSON.stringify(body);
   }
+  
   return {
     statusCode,
     body,
