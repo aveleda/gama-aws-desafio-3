@@ -7,3 +7,6 @@ Endpoints:
 - GET /leads/{id}   : Retorna a lead
 - PUT /leads/{id}   : Atualiza a lead
 - DELETE /leads/{id}: Remove a lead
+
+Código: 
+- index.js: lambda 
